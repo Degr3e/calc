@@ -1,0 +1,46 @@
+body{
+	background-color: #c9c4ff;
+}
+.times{
+	margin-left: 100px;
+	text-align: left;
+	box-shadow: 0 0 10px gray;
+	border-left-width: 5px;
+}
+.del{
+	margin-left: 100px;
+	text-align: right;
+	box-shadow: 0 0 10px gray;
+	border-left-width: 5px;
+}
+.min{
+	margin-left: 100px;
+	text-align: right;
+	box-shadow: 0 0 10px gray;
+	border-left-width: 5px;
+}
+.plus{
+	margin-left: 100px;
+	text-align: right;
+	box-shadow: 0 0 10px gray;
+	border-left-width: 5px;
+}
+.two_times{
+	margin-left: 100px;
+	text-align: left;
+	box-shadow: 0 0 10px gray;
+	border-left-width: 5px;
+}
+.kor{
+	margin-left: 100px;
+	margin-top: 50px;
+	text-align: right;
+	box-shadow: 0 0 10px gray;
+	border-left-width: 5px;
+}
+p{
+	text-align: center;
+	font-style: italic;
+	font-size: 200px;
+}
+	
